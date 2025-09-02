@@ -13,6 +13,7 @@ Currently leveling up my **React & Node.js** skills while exploring **Machine Le
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
 ---
