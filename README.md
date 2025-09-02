@@ -3,7 +3,7 @@
 🎓 ENSIA Student | 🚀 Future AI Engineer | 🌐 Full-Stack Developer in Progress  
 
 I’m passionate about **AI, Web Development, and building clean user experiences**.  
-Currently leveling up my **React & Node.js** skills while exploring **Machine Learning**.  
+Currently leveling up my **React ** skills while exploring **Machine Learning**.  
 
 ---
 
