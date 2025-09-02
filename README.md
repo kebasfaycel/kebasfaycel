@@ -8,13 +8,12 @@ Currently leveling up my **React & Node.js** skills while exploring **Machine Le
 ---
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
 
 ---
 
