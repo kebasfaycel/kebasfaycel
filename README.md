@@ -33,9 +33,7 @@ I’m passionate about **AI, Web Development, and building clean user experience
 ---
 
 ## 📌 Featured Projects
-🌦️ [Weather App](https://github.com/kebasfaycel/weather-app) – Real-time weather forecast with API integration  
-📝 [Note App](https://github.com/kebasfaycel/note-app) – Simple note-taking app with local storage  
-📝 [To Do List App](https://github.com/kebasfaycel/to-do-list) - A sleek task management app built with **React** and styled using **Material-UI**.
+
   
 ---
 
