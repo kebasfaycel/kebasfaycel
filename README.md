@@ -32,7 +32,8 @@ I’m passionate about **AI, Web Development, and building clean user experience
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+![Zod](https://img.shields.io/badge/Zod-7C3AED?style=for-the-badge&logo=zod&logoColor=white)
+![react-hook-form](https://img.shields.io/badge/react--hook--form-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ---
 
 ## 📊 GitHub Stats
