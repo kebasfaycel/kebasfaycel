@@ -46,8 +46,6 @@ I’m passionate about **AI, Web Development, and building clean user experience
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](kebasfaycel200-@gmail.com)
 
----
-
-✨ *“Code is like poetry — it’s not just about making it work, it’s about making it beautiful.”*  
+---  
 
 -->
