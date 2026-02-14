@@ -50,7 +50,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ## 📊 GitHub Statistics
 
-![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kebasfaycel&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kebasfaycel&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kebasfaycel&layout=compact&theme=tokyonight)
 
 ---
