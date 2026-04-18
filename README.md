@@ -1,71 +1,60 @@
-# # 👋 Hi, I’m Faycel Kebas
+# 👋 Hi, I'm Faycel Kebas
 
-🎓 **ENSIA Student**  
-🤖 **Aspiring AI Engineer**  
-🌐 **Full-Stack Developer (in Progress)**  
-
-I am a motivated computer science student with a strong interest in **Artificial Intelligence**, **modern web technologies**, and **building clean, scalable user experiences**.  
-I enjoy solving real-world problems through code and continuously improving my skills through academic work and personal projects.
+> Full-Stack Developer · Clean Code Advocate · Always learning
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Programming & Markup
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn--ui-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-7C3AED?style=for-the-badge&logo=zod&logoColor=white)
-![react-hook-form](https://img.shields.io/badge/react--hook--form-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5/e34c26" width="36" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572b6" width="36" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/f7df1e" width="36" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178c6" width="36" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/react/61dafb" width="36" title="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="36" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4fc08d" width="36" title="Vue.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="36" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5fa04e" width="36" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/express" width="36" title="Express" />
+  <img src="https://cdn.simpleicons.org/python/3776ab" width="36" title="Python" />
+  <img src="https://cdn.simpleicons.org/mongodb/47a248" width="36" title="MongoDB" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169e1" width="36" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql/4479a1" width="36" title="MySQL" />
+  <img src="https://cdn.simpleicons.org/git/f05032" width="36" title="Git" />
+  <img src="https://cdn.simpleicons.org/github" width="36" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/docker/2496ed" width="36" title="Docker" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007acc" width="36" title="VS Code" />
+  <img src="https://cdn.simpleicons.org/figma/f24e1e" width="36" title="Figma" />
+  <img src="https://cdn.simpleicons.org/linux/fcc624" width="36" title="Linux" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" title="REST API" />
+  <img src="https://cdn.simpleicons.org/graphql/e10098" width="36" title="GraphQL" />
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kebasfaycel&show_icons=true&theme=github_dark&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kebasfaycel&layout=compact&theme=tokyonight)
+![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=faycellkebas&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faycellkebas&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 🎯 Current Focus
-- Building **full-stack projects** with modern frameworks
-- Writing clean, maintainable, and scalable code
-- Improving system design and problem-solving skills
+
+- ⚡ Building full-stack projects with modern frameworks
+- ✦ Writing clean, maintainable, and scalable code
+- ◈ Improving system design and problem-solving skills
 
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:kebasfaycel200@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 ---
 
-⭐ *Always open to learning, collaboration, and new opportunities.*
+⭐ Always open to learning, collaboration, and new opportunities.
