@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -72,8 +70,6 @@
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasfaycel&theme=tokyonight" width="100%" alt="Faycel's GitHub Details" />
 </div>
@@ -81,14 +77,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasfaycel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kebasfaycel&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kebasfaycel&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </div>
-
----
-
----
 
 ## 🎯 Current Focus
 
@@ -98,15 +88,12 @@
 
 ---
 
-## 🤝 Open to
+##  Open to
 
 - Collaboration on open-source projects.
 - Freelance opportunities and innovative startups.
 - Mentorship and sharing knowledge with fellow developers.
 
 <div align="center">
-  <br />
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-  <br />
-  <b>Stars are appreciated! ⭐</b>
+ <i>Clean code always looks like it was written by someone who cares.</i>
 </div>
