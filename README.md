@@ -72,22 +72,29 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kebasfaycel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasfaycel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</div>
+## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasfaycel&theme=tokyonight" width="100%" alt="Faycel's GitHub Details" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebasfaycel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kebasfaycel&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
 
+---
+
 ## 🎯 Current Focus
 
-- 🚀 **Full-Stack Mastery:** Developing end-to-end applications with the T3 stack and Python.
-- 🤖 **AI Engineering:** Integrating machine learning models into web ecosystems.
-- 🛠️ **System Design:** Focusing on scalability, maintainability, and clean architecture.
+-  **Full-Stack Mastery:** Developing end-to-end applications with the T3 stack and Python.
+-  **AI Engineering:** Integrating machine learning models into web ecosystems.
+-  **System Design:** Focusing on scalability, maintainability, and clean architecture.
 
 ---
 
