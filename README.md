@@ -1,60 +1,106 @@
-# 👋 Hi, I'm Faycel Kebas
+<div align="center">
 
-> Full-Stack Developer · Clean Code Advocate · Always learning
+# 👋 Hi, I'm Faycel Kebas 
+
+**Full-Stack Developer · Future AI Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faycellkebas)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+### 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5/e34c26" width="36" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572b6" width="36" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/f7df1e" width="36" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178c6" width="36" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/react/61dafb" width="36" title="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="36" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4fc08d" width="36" title="Vue.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="36" title="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/5fa04e" width="36" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/express" width="36" title="Express" />
-  <img src="https://cdn.simpleicons.org/python/3776ab" width="36" title="Python" />
-  <img src="https://cdn.simpleicons.org/mongodb/47a248" width="36" title="MongoDB" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169e1" width="36" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/mysql/4479a1" width="36" title="MySQL" />
-  <img src="https://cdn.simpleicons.org/git/f05032" width="36" title="Git" />
-  <img src="https://cdn.simpleicons.org/github" width="36" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/docker/2496ed" width="36" title="Docker" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007acc" width="36" title="VS Code" />
-  <img src="https://cdn.simpleicons.org/figma/f24e1e" width="36" title="Figma" />
-  <img src="https://cdn.simpleicons.org/linux/fcc624" width="36" title="Linux" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" title="REST API" />
-  <img src="https://cdn.simpleicons.org/graphql/e10098" width="36" title="GraphQL" />
+  <img src="https://cdn.simpleicons.org/html5/e34c26" width="38" title="HTML5" />&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572b6" width="38" title="CSS3" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/f7df1e" width="38" title="JavaScript" />&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178c6" width="38" title="TypeScript" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61dafb" width="38" title="React" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="38" title="Next.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/4fc08d" width="38" title="Vue.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="38" title="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.simpleicons.org/redux/764abc" width="38" title="Redux" />&nbsp;
+  <img src="https://cdn.simpleicons.org/reactrouter/ca4245" width="38" title="React Router" />&nbsp;
+  <img src="https://cdn.simpleicons.org/reacthookform/ec5990" width="38" title="React Hook Form" />&nbsp;
+  <img src="https://cdn.simpleicons.org/zod/3e67b1" width="38" title="Zod" />&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/000000" width="38" title="shadcn/ui" />
+</p>
+
+### ⚙️ Backend & Runtime
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="38" title="Node.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000" width="38" title="Express" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776ab" width="38" title="Python" />&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="38" title="FastAPI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/hono/e36002" width="38" title="Hono.js" />&nbsp;
+  <img src="https://cdn.simpleicons.org/bun/fbf0df" width="38" title="Bun" />&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777bb4" width="38" title="PHP" />&nbsp;
+  <img src="https://cdn.simpleicons.org/graphql/e10098" width="38" title="GraphQL" />&nbsp;
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6ba539" width="38" title="OpenAPI" />&nbsp;
+  <img src="https://cdn.simpleicons.org/axios/5a29e4" width="38" title="Axios" />&nbsp;
+  <img src="https://cdn.simpleicons.org/auth0/eb5424" width="38" title="Auth0" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mongodb/47a248" width="38" title="MongoDB" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mongoose/880000" width="38" title="Mongoose" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169e1" width="38" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479a1" width="38" title="MySQL" />&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2d3748" width="38" title="Prisma" />
+</p>
+
+### 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/f05032" width="38" title="Git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="38" title="GitHub" />&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ed" width="38" title="Docker" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646cff" width="38" title="Vite" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pnpm/f69220" width="38" title="pnpm" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="38" title="Vercel" />&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/fcc624" width="38" title="Linux" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/ff6c37" width="38" title="Postman" />&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007acc" width="38" title="VS Code" />&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/f24e1e" width="38" title="Figma" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Faycel's GitHub stats](https://github-readme-stats.vercel.app/api?username=faycellkebas&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faycellkebas&layout=compact&theme=github_dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faycellkebas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faycellkebas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faycellkebas&theme=tokyonight&hide_border=true" height="180" />
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- ⚡ Building full-stack projects with modern frameworks
-- ✦ Writing clean, maintainable, and scalable code
-- ◈ Improving system design and problem-solving skills
+- 🚀 **Full-Stack Mastery:** Developing end-to-end applications with the T3 stack and Python.
+- 🤖 **AI Engineering:** Integrating machine learning models into web ecosystems.
+- 🛠️ **System Design:** Focusing on scalability, maintainability, and clean architecture.
 
 ---
 
-## 🌍 Connect With Me
+## 🤝 Open to
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+- Collaboration on open-source projects.
+- Freelance opportunities and innovative startups.
+- Mentorship and sharing knowledge with fellow developers.
 
----
-
-⭐ Always open to learning, collaboration, and new opportunities.
+<div align="center">
+  <br />
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <br />
+  <b>Stars are appreciated! ⭐</b>
+</div>
