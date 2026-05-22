@@ -17,7 +17,7 @@
 ### 🎨 Frontend
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5/e34c26" width="38" title="HTML5" />&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572b6" width="38" title="CSS3" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="38" title="CSS3" />
   <img src="https://cdn.simpleicons.org/javascript/f7df1e" width="38" title="JavaScript" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178c6" width="38" title="TypeScript" />&nbsp;
   <img src="https://cdn.simpleicons.org/react/61dafb" width="38" title="React" />&nbsp;
@@ -65,7 +65,6 @@
   <img src="https://cdn.simpleicons.org/vercel/000000" width="38" title="Vercel" />&nbsp;
   <img src="https://cdn.simpleicons.org/linux/fcc624" width="38" title="Linux" />&nbsp;
   <img src="https://cdn.simpleicons.org/postman/ff6c37" width="38" title="Postman" />&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007acc" width="38" title="VS Code" />&nbsp;
   <img src="https://cdn.simpleicons.org/figma/f24e1e" width="38" title="Figma" />
 </p>
 
