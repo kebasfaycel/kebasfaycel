@@ -20,7 +20,6 @@
   <img src="https://cdn.simpleicons.org/typescript/3178c6" width="38" title="TypeScript" />&nbsp;
   <img src="https://cdn.simpleicons.org/react/61dafb" width="38" title="React" />&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="38" title="Next.js" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vuedotjs/4fc08d" width="38" title="Vue.js" />&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="38" title="Tailwind CSS" />&nbsp;
   <img src="https://cdn.simpleicons.org/redux/764abc" width="38" title="Redux" />&nbsp;
   <img src="https://cdn.simpleicons.org/reactrouter/ca4245" width="38" title="React Router" />&nbsp;
@@ -38,7 +37,6 @@
   <img src="https://cdn.simpleicons.org/hono/e36002" width="38" title="Hono.js" />&nbsp;
   <img src="https://cdn.simpleicons.org/bun/fbf0df" width="38" title="Bun" />&nbsp;
   <img src="https://cdn.simpleicons.org/php/777bb4" width="38" title="PHP" />&nbsp;
-  <img src="https://cdn.simpleicons.org/graphql/e10098" width="38" title="GraphQL" />&nbsp;
   <img src="https://cdn.simpleicons.org/openapiinitiative/6ba539" width="38" title="OpenAPI" />&nbsp;
   <img src="https://cdn.simpleicons.org/axios/5a29e4" width="38" title="Axios" />&nbsp;
   <img src="https://cdn.simpleicons.org/auth0/eb5424" width="38" title="Auth0" />
