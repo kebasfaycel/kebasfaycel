@@ -40,7 +40,7 @@
   <img src="https://cdn.simpleicons.org/openapiinitiative/6ba539" width="38" title="OpenAPI" />&nbsp;
   <img src="https://cdn.simpleicons.org/axios/5a29e4" width="38" title="Axios" />&nbsp;
   <img src="https://cdn.simpleicons.org/auth0/eb5424" width="38" title="Auth0" />
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="38" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="38" title="Java" />&nbsp;
   <img src="https://cdn.simpleicons.org/c/00599C" width="38" title="C" />&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="38" title="C++" />&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="38" title="Bash" />&nbsp;
