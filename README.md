@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Faycel Kebas 
+#  Hi, I'm Faycel Kebas 
 
 **Full-Stack Developer · Future AI Engineer**
 
@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5/e34c26" width="38" title="HTML5" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="38" title="CSS3" />
@@ -29,7 +29,7 @@
   <img src="https://cdn.simpleicons.org/shadcnui/000000" width="38" title="shadcn/ui" />
 </p>
 
-### ⚙️ Backend & Runtime
+###  Backend & Runtime
 <p align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="38" title="Node.js" />&nbsp;
   <img src="https://cdn.simpleicons.org/express/000000" width="38" title="Express" />&nbsp;
@@ -44,7 +44,7 @@
   <img src="https://cdn.simpleicons.org/auth0/eb5424" width="38" title="Auth0" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="left">
   <img src="https://cdn.simpleicons.org/mongodb/47a248" width="38" title="MongoDB" />&nbsp;
   <img src="https://cdn.simpleicons.org/mongoose/880000" width="38" title="Mongoose" />&nbsp;
@@ -53,7 +53,7 @@
   <img src="https://cdn.simpleicons.org/prisma/2d3748" width="38" title="Prisma" />
 </p>
 
-### 🔧 Tools & DevOps
+###  Tools & DevOps
 <p align="left">
   <img src="https://cdn.simpleicons.org/git/f05032" width="38" title="Git" />&nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" width="38" title="GitHub" />&nbsp;
@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebasfaycel&theme=tokyonight" width="100%" alt="Faycel's GitHub Details" />
@@ -80,7 +80,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kebasfaycel&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
-## 🎯 Current Focus
+##  Current Focus
 
 -  **Full-Stack Mastery:** Developing end-to-end applications with the T3 stack and Python.
 -  **AI Engineering:** Integrating machine learning models into web ecosystems.
